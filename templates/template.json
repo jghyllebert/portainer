@@ -75,6 +75,6 @@
                 "bind": "/portainer/Files/AppData/Config/HomeAssistant/assets",
                 "container": "/config"
             }]
-        },
+        }
     ]
 }
